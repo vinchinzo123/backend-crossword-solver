@@ -20,7 +20,7 @@ There would be six words that fit.  In order to create this program, you will ne
 
 ## Skills Required
  - File and console (keyboard) I/O
- - Looping, indexing, slicing
+ - Looping, indexing, regex
 
 ## Workflow for this Assignment
 1. Fork this repository into your own personal github account.
